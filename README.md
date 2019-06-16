@@ -27,8 +27,10 @@ Sample levels (0->1 float)
 
 Room Reverb (0->1 float)
 ```
-/Level/x
-/Reflection/x
+/RoomLevel/x
+/StageLevel/x
+/RoomReflection/x
+/StageReflection/x
 /Time/x
 ```
 
